@@ -2,4 +2,4 @@
 
 This script help you download files from external web sites.
 
-Use it with crontab that update your files on time interval.
+Use it with crontab that to update your files on time interval.
